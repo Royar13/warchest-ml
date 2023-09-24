@@ -1,0 +1,53 @@
+S1P1,S1P2,S1P3,S1P4,S2P1,S2P2,S2P3,S2P4,Winner
+Archer,Scout,Swordsman,Lancer,Ensign,Crossbowman,Pikeman,Knight,S1
+Archer,Ensign,Mercenary,Warrior Priest,Scout,Crossbowman,Swordsman,Footman,S2
+Archer,Scout,Lancer,Footman,Light Cavalry,Cavalry,Mercenary,Swordsman,S2
+Archer,Mercenary ,Knight ,Lancer,Scout,Berserker,Footman,Warrior Priest ,S2
+Berserker,Pikeman,Royal Guard,Light Cavalry,Marshall,Warrior Priest,Ensign,Scout,S1
+Cavalry,Archer ,Mercenary,Pikeman,Light Cavalry,Scout,Knight,Royal Guard,S1
+Cavalry,Archer ,Mercenary,Pikeman,Light Cavalry,Scout,Knight,Royal Guard,S1
+Cavalry,Swordsman,Knight,Warrior Priest,Marshall,Crossbowman,Scout,Ensign,S1
+Cavalry,Pikeman,Mercenary,Warrior Priest,Ensign,Berserker,Knight,Marshall,S1
+Cavalry,Pikeman,Mercenary,Warrior Priest,Ensign,Berserker,Knight,Marshall,S2
+Crossbowman,Archer,Mercenary,Lancer,Marshall,Warrior Priest,Berserker,Pikeman,S1
+Crossbowman,Swordsman,Knight,Warrior Priest,Cavalry,Ensign,Mercenary,Footman,S1
+Crossbowman,Marshall,Warrior Priest,Lancer,Pikeman,Royal Guard,Footman,Archer,S1
+Crossbowman,Knight,Scout,Lancer,Ensign,Footman,Pikeman,Royal Guard,S1
+Crossbowman,Scout,Royal Guard,Swordsman,Berserker,Ensign,Lancer,Pikeman,S1
+Crossbowman,Footman,Swordsman,Lancer,Marshall,Pikeman,Berserker,Knight,S2
+Ensign,Swordsman,Knight,Lancer,Marshall,Berserker,Mercenary,Crossbowman,S2
+Ensign,Footman,Royal Guard,Warrior Priest,Berserker,Cavalry,Mercenary,Swordsman,S2
+Ensign,Archer,Berserker,Lancer,Scout,Cavalry,Crossbowman,Marshall,S1
+Ensign,Knight,Mercenary,Warrior Priest,Berserker,Archer,Pikeman,Royal Guard,S2
+Ensign,Berserker,Royal Guard,Archer,Light Cavalry,Mercenary,Pikeman,Marshall,S2
+Knight,Scout,Marshall,Ensign,Cavalry,Crossbowman,Swordsman,Footman,S1
+Knight,Marshall,Crossbowman,Mercenary,Cavalry,Light Cavalry,Ensign,Archer,S1
+Knight,Crossbowman,Pikeman,Cavalry,Ensign,Berserker,Royal Guard,Scout,S1
+Knight,Crossbowman,Ensign,Lancer,Scout,Marshall,Cavalry,Footman,S2
+Light Cavalry,Mercenary,Pikeman,Warrior Priest,Swordsman,Scout,Archer,Berserker,S1
+Light Cavalry,Swordsman,Archer,Scout,Ensign,Berserker,Knight,Mercenary,S2
+Light Cavalry,Scout,Berserker,Lancer,Crossbowman,Marshall,Mercenary,Pikeman,S1
+Light Cavalry,Cavalry,Pikeman,Footman,Scout,Crossbowman,Lancer,Berserker,S2
+Light Cavalry,Pikeman,Knight,Mercenary ,Royal Guard,Berserker ,Footman,Scout,S1
+Light Cavalry,Mercenary,Royal Guard,Warrior Priest,Cavalry,Crossbowman,Knight,Archer,S1
+Light Cavalry,Knight,Berserker,Lancer,Scout,Crossbowman,Royal Guard,Footman,S2
+Light Cavalry,Cavalry,Royal Guard ,Archer,Warrior Priest,Swordsman,Ensign,Knight,S1
+Light Cavalry,Cavalry,Warrior Priest,Lancer,Royal Guard,Swordsman,Berserker,Pikeman,S1
+Marshall,Archer,Scout,Lancer,Cavalry,Mercenary,Light Cavalry,Footman,S2
+Marshall,Royal Guard,Crossbowman,Lancer,Scout,Cavalry,Footman,Mercenary,S2
+Marshall,Mercenary,Knight,Lancer,Light Cavalry,Cavalry,Ensign,Warrior Priest,S2
+Marshall,Scout,Cavalry,Lancer,Footman,Royal Guard,Knight,Footman,S2
+Marshall,Crossbowman,Pikeman,Warrior Priest,Cavalry,Scout,Mercenary,Berserker,S2
+Marshall,Royal Guard,Crossbowman,Lancer,Berserker,Scout,Warrior Priest,Cavalry,S2
+Mercenary,Cavalry,Swordsman,Archer,Light Cavalry,Marshall,Crossbowman,Scout,S2
+Mercenary,Light Cavalry,Knight,Royal Guard,Ensign,Berserker,Archer,Footman,S2
+Pikeman,Berserker,Warrior Priest,Lancer,Swordsman,Scout,Knight,Royal Guard,S2
+Pikeman,Swordsman,Berserker,Lancer,Scout,Warrior Priest,Knight,Cavalry,S2
+Royal Guard,Light Cavalry,Swordsman,Warrior Priest,Ensign,Archer,Knight,Footman,S1
+Royal Guard,Scout,Swordsman,Lancer,Berserker,Mercenary,Cavalry,Warrior Priest,S2
+Royal Guard,Scout,Swordsman,Lancer,Berserker,Mercenary,Cavalry,Warrior Priest,S2
+Royal Guard,Footman,Lancer,Knight,Crossbowman,Cavalry,Ensign,Marshall,S1
+Royal Guard,Warrior Priest,Scout,Footman,Ensign,Crossbowman,Cavalry,Mercenary,S1
+Scout,Warrior Priest,Mercenary,Ensign,Knight,Crossbowman,Marshall,Cavalry,S1
+Scout,Footman,Pikeman,Archer,Light Cavalry,Marshall,Cavalry,Swordsman,S2
+Swordsman,Archer,Pikeman,Warrior Priest,Ensign,Berserker,Crossbowman,Royal Guard,S1
